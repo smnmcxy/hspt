@@ -9,7 +9,7 @@ namespace 简单医院管理系统
     static class Program
     {
         /// <summary>
-        /// 应用程序的主入口点。
+        /// 应用程序的主入口点。黄建华是sb
         /// </summary>
         [STAThread]
         static void Main()
